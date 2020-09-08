@@ -7,7 +7,7 @@ BarcodeGenerator is a simple program written in python, that allows the user to 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to use the source code of the BarcodeGenerator.
 
 ```bash
-pip install Pillow barcode 
+pip install Pillow barcode yaml win32com
 ```
 Install tkinter through system's repository
 
