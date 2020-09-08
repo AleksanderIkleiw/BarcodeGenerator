@@ -4,7 +4,7 @@ BarcodeGenerator is a simple program written in python, that allows the user to 
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to use the source code of the BarcodeGenerator.
 
 ```bash
 pip install PIL
