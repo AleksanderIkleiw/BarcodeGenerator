@@ -1,1 +1,20 @@
 # BarcodeGenerator
+
+BarcodeGenerator is a simple program written in python, that allows the user to easily create and adjust barcode Code-39
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+
+```bash
+pip install PIL
+pip install tkinter
+pip install barcode
+```
+
+
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
