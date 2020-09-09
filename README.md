@@ -20,6 +20,9 @@ pip install -r %CD%/requirements.txt
 
 And for both install tkinter through system's repository.
 
+## Please Note
+Microsoft Visual C++ 14.0 is required for some packages. Get it with [Build Tools for Visual Studio.](https://visualstudio.microsoft.com/downloads/)
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
