@@ -6,10 +6,11 @@ BarcodeGenerator is a simple program written in python, that allows the user to 
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to use the source code of the BarcodeGenerator.
 
-In the current directory do:
+In the cloned directory do:
 
+on linux:
 ```bash
-pip install requirements.txt
+pip install-r $PWD/requirements.txt
 ```
 And install tkinter through system's repository
 
