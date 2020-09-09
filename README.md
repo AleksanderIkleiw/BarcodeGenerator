@@ -9,7 +9,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to use the source 
 In the current directory do:
 
 ```bash
-pip install reuirements.txt
+pip install requirements.txt
 ```
 And install tkinter through system's repository
 
