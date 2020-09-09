@@ -12,7 +12,13 @@ on any linux distribution do:
 ```bash
 pip install -r $PWD/requirements.txt
 ```
-And install tkinter through system's repository
+
+or on windows do: 
+```bash
+pip install -r %CD%/requirements.txt
+```
+
+And for both install tkinter through system's repository.
 
 
 ## Contributing
