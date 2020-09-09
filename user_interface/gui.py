@@ -1,8 +1,6 @@
 import sys
+from user_interface import displays
 from tkinter import *
-import displays
-
-
 
 class GUI:
 
