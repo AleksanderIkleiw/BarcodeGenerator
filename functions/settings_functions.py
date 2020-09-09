@@ -1,6 +1,4 @@
-import yaml
-import os
-
+import yaml, os
 
 def read_settings():
     with open(f"{os.getcwd().split('user_interface')[0]}\\settings.yaml") as f:
