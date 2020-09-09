@@ -1,4 +1,0 @@
-Pillow
-barcode
-pyyaml
-pywin32
