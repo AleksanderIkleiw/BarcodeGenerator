@@ -1,18 +1,11 @@
-import PIL
-import barcode
-import os
-import sys
+import PIL, barcode, os, sys, win32clipboard
 from io import BytesIO
-import win32clipboard
 from PIL.Image import Image
 
 sys.path.append(f'{os.getcwd().split("user_interface")[0]}\\functions')
 
 import settings_functions
-
-
 from barcode.writer import ImageWriter
-
 
 def generate_barcode(num):
     dir = os.getcwd().split('user_interface')[0]
