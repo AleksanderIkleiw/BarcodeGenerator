@@ -10,7 +10,7 @@ In the cloned directory do:
 
 on linux:
 ```bash
-pip install-r $PWD/requirements.txt
+pip install -r $PWD/requirements.txt
 ```
 And install tkinter through system's repository
 
