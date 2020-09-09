@@ -1,8 +1,5 @@
 import sys
 from tkinter import *
-
-sys.path.append('user_interface')
-
 import displays
 
 
