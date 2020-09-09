@@ -8,7 +8,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to use the source 
 
 In the cloned directory do:
 
-on linux:
+on any linux distribution do: 
 ```bash
 pip install -r $PWD/requirements.txt
 ```
