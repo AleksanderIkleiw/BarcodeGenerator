@@ -1,4 +1,4 @@
 Pillow
 barcode
-yaml
-win32com
+pyyaml
+pywin32
