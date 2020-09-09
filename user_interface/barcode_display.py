@@ -1,5 +1,4 @@
-import os
-import PIL.Image
+import os, PIL.Image
 from tkinter import *
 
 def display_preview_activity():

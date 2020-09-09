@@ -1,11 +1,6 @@
 import sys
+from user_interface import displays
 from tkinter import *
-
-sys.path.append('user_interface')
-
-import displays
-
-
 
 class GUI:
 

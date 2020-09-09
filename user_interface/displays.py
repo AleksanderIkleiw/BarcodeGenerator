@@ -1,5 +1,4 @@
-import sys
-import os
+import sys, os
 
 sys.path.append(f'{os.getcwd().split("user_interface")[0]}\\functions')
 sys.path.append(os.getcwd())
