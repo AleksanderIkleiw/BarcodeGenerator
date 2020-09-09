@@ -1,4 +1,11 @@
+master
 Pillow
 barcode
 pyyaml
 pywin32
+=======
+Pillow
+barcode
+pyyaml
+pywin32
+master
